@@ -19,8 +19,6 @@ $(call inherit-product-if-exists, vendor/samsung/d2att/d2att-vendor.mk)
 
 
 
-## overlays
-DEVICE_PACKAGE_OVERLAYS += device/samsung/d2att/overlay
 ## common overlays
 DEVICE_PACKAGE_OVERLAYS += device/samsung/d2-common/overlay-gsm
 
