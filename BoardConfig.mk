@@ -30,5 +30,5 @@
 TARGET_OTA_ASSERT_DEVICE := d2att
 
 # Kernel
-TARGET_KERNEL_CONFIG		:= aokp_d2-gsm_defconfig
+TARGET_KERNEL_CONFIG		:= cyanogen_d2att_defconfig
 
