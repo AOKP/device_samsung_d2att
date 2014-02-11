@@ -28,7 +28,3 @@
 
 # Assert
 TARGET_OTA_ASSERT_DEVICE := d2att
-
-# Kernel
-TARGET_KERNEL_CONFIG		:= cyanogen_d2att_defconfig
-
